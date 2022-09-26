@@ -1,0 +1,41 @@
+.contact-us {
+  
+  text-align: center;
+  justify-content: center;
+  /* display: flex;  */
+  padding-top: 50px;
+  padding-bottom: 90px;
+  background-color: #e3e6f1;
+  height: 100vh;
+
+}
+.job-end-panel {
+    /* display: flex; */
+    justify-content: center;
+    width: 100%;
+    box-shadow: 11px 12px 13px 12px rgb(207, 207, 207);
+    padding-top: 30px;
+    /* border-radius: 60px;  */
+    /* background-color: white; */
+}
+.contact-panel{
+    background: white;
+    width: 70%;
+    margin-left: 150px;
+}
+.panel-last {
+  margin: 20px;
+}
+
+.panel-last-top {
+  color: rgb(38, 145, 172);
+  font-size: 30px;
+  border: none;
+  outline: none;
+}
+
+
+input{
+    width: 100px;
+      height: 50px;
+}

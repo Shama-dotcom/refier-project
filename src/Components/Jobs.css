@@ -1,0 +1,193 @@
+.job-container {
+  background: rgb(227, 239, 240);
+  height: 500vh;
+  display: flex;
+}
+
+.job-filter-panel {
+  padding: 50px;
+  /* padding-top: 50px; */
+  justify-content: space-around;
+  /* width: 25%; */
+}
+.job-filter-first {
+  background-color: white;
+  /* display: grid; */
+  padding: 20px;
+  height: 55vh;
+  width: 100%;
+
+  /* margin-top: 120px; */
+}
+
+.title {
+  font-weight: bold;
+}
+
+.filter-placeholder {
+  border: 2px solid rgb(163, 158, 158);
+  height: 35px;
+  color: inherit;
+  padding-left: 2px;
+}
+
+label {
+  font-size: 20px;
+  font-weight: 500;
+}
+input {
+  box-sizing: content-box;
+  width: 2px;
+  outline: 0px;
+  padding: 0px;
+}
+
+.filter-end {
+  display: grid;
+}
+
+#wfh {
+  margin-top: 20px;
+}
+
+#oi {
+  margin-top: 10px;
+}
+
+#dmmp {
+  margin-top: 10px;
+}
+
+.job-panel-2 {
+  /* background-color: white; */
+  width: 45%;
+  margin-top: 50px;
+  height: 45vh;
+}
+
+.job-panel-2-ii {
+  margin-top: 20px;
+}
+
+.panel-middle {
+  padding: 20px;
+  background-color: white;
+}
+
+.job-box {
+  display: flex;
+}
+.title-2 {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.title-2-i {
+  color: rgb(202, 196, 196);
+  font-size: 20px;
+  margin-top: 15px;
+}
+
+.box-image {
+  padding-left: 30px;
+}
+
+.middle-img {
+  border-radius: 50px 50px 50px 50px;
+  height: 100px;
+  width: 16%;
+}
+
+.middle-img2 {
+  display:absolute;
+  margin-left: 120px;
+  border-radius: 50px 50px 50px 50px;
+  width: 16%;
+}
+.job-body {
+  display: flex;
+  /* margin-left: 20px; */
+}
+.body-start {
+  font-size: 20px;
+  color: lightslategray;
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-right: 95px;
+}
+
+.body-end {
+  font-size: 15px;
+  margin-top: 25px;
+  color: rgb(192, 181, 181);
+}
+
+.body-foot {
+  display: flex;
+}
+
+.foot-start {
+  margin-top: 30px;
+  margin-left: 10px;
+  margin-right: 30px;
+  background: rgb(166, 172, 179);
+  height: 45px;
+  width: 20%;
+  border-radius: 25px;
+}
+
+.foot-1,
+.foot-2 {
+  font-size: 20px;
+  margin: 10px;
+  padding-left: 10px;
+  color: rgb(85, 83, 83);
+  font-weight: 400;
+}
+
+.foot-end {
+  background: rgb(8, 99, 8);
+  margin-left: 120px;
+  height: 55px;
+  margin-top: 30px;
+  width: 30%;
+  border-radius: 10px;
+  padding-left: 3%;
+}
+
+.foot-3 {
+  font-size: 20px;
+  margin: 15px;
+  margin-left: 30px;
+  color: white;
+  font-weight: 500;
+}
+
+.job-end-panel {
+  background-color: white;
+  width: 23%;
+  margin-left: 30px;
+  margin-top: 50px;
+  height: 60vh;
+}
+
+
+.panel-last {
+  margin: 25px;
+}
+
+.panel-last-top h3{
+  color: rgb(38, 145, 172);
+  /* justify-content: space-evenly; */
+  font-size: 30px;
+  margin: 0;
+  padding: 0;
+}
+
+.panel-last-down {
+  margin: 1px;
+}
+
+.down-number{
+  display: flex;
+}

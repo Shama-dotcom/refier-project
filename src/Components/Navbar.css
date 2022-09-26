@@ -1,0 +1,90 @@
+.navbar {
+  background: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 5vh;
+  width: 100%;
+}
+
+.navbar-logo {
+  display: flex;
+  color: rgb(9, 68, 9);
+  grid-column: 2/3;
+  font-size: 40px;
+  font-weight: 600;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.nav-right {
+  display: flex;
+  justify-content: space-between;
+  width: 30%;
+}
+
+.navbar-link {
+  color: black;
+  text-decoration: none;
+  letter-spacing: 1px;
+  font-weight: bold;
+  font-size: 20px;
+  margin: 20px;
+}
+
+.nav-end {
+  display: flex;
+  flex-direction: row;
+  margin-left: 20px;
+  margin-right: 20px;
+  justify-content: space-around;
+}
+
+.login{
+  width: 150px;
+  padding-right: 3px;
+
+}
+.navbar-logIn {
+  font-size: 18px;
+  color: black;
+  border: 2px solid #111;
+  text-decoration: none;
+  font-weight: 600;
+  padding: 6px 30px;
+  display: flex;
+}
+
+
+
+.dropdown{
+  width: 150px;
+  position: relative;
+  padding-left: 3%;
+}
+
+.dropdown .dropdown-btn {
+  font-size: 20px;
+  background-color: black;
+  color: white;
+  background-color:  #111;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 6px 30px;
+  display: flex;
+}
+
+.dropdown .dropdown-content {
+  position: absolute;
+  top: 110%;
+  padding: 10px;
+  background-color: white;
+  font-weight: bold;
+  color: black;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.dropdown .dropdown-content .dropdown-item{
+  padding: 10px;
+}

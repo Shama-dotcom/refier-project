@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(238, 223, 238);
+}
+
+.dream-img {
+  height: 350px;
+  margin: 10px;
+  width: 100%;
+  padding: 10px;
+}
+
+h1{
+justify-content: center;
+display: flex;
+}
+
+.container-end{
+    background-color: white;
+    display: flex;
+    height: 120px;
+    border-radius: 10px 50px;
+    margin: 30px;
+}
+.end-link{
+    font-size: 30px;
+    background: rgb(142, 228, 231);
+    height: 60px;
+    margin: 30px;
+    width: 7pw;
+    border-radius: 5px;
+}
+
+.link-1{
+    color:rgb(13, 121, 13);
+    font-family: monserrat;
+
+}
+
+.link-2{
+    color:rgb(216, 78, 36);
+    font-family: monserrat;
+
+}
+.link-3{
+    color:rgb(26, 96, 109);
+    font-family: monserrat;
+
+}
+
+.link-4{
+    color:rgb(13, 99, 121);
+    font-family: monserrat;
+
+}
+
+.link-5{
+    color:rgb(107, 11, 94);
+    font-family: monserrat;
+
+}

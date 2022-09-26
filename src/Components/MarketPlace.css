@@ -1,0 +1,28 @@
+.market-section{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(231, 232, 241);
+    height: 100vh;
+    
+}
+
+.market-left{
+    margin: 30px;
+    margin-top: 80px;
+}
+
+h1{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+h3{
+    font-size: 25px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 40px;
+}
+
+.market-img{
+    height: 80vh;
+}
